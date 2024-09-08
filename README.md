@@ -32,7 +32,7 @@ I love building robust systems using well-established **architecture patterns**:
 ### 📫 How to reach me:
 - **Email**: [nirmalshaji789@gmail.com](mailto:nirmalshaji789@gmail.com)
 - **LinkedIn**: [Nirmal Shaji Joseph](https://www.linkedin.com/in/nirmal-shaji-joseph/)
-- **Twitter**: [Nirmal]https://x.com/nirmal__sj)
+- **Twitter**: [nirmal_sj](https://x.com/nirmal__sj)
 
 ### ⚡ Fun Fact:
 I can turn coffee into code! ☕💻
