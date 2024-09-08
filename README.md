@@ -1,4 +1,4 @@
-# Hi there, I'm Nirmal 👋 
+# Hi there, I'm Nirmal, working as a Software Engineer in [Tropsohere Solutions Private Limited](https://www.linkedin.com/company/troposphere-solutions) 👋 
 
 I am a passionate **Software Engineer** who thrives in the **JavaScript ecosystem**. From building interactive UIs with **React** and **React Native** to creating scalable and efficient backends with **Node.js**, I love developing solutions that bring ideas to life.
 
